@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "erigje.aternos.me",
+    "ip": "185.107.194.109:50408",
     "port": 50408,
     "version": "1.21.1"
   },
